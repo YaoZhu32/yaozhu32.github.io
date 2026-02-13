@@ -1,13 +1,15 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Excellent Student, NUIST                                                            2022-2025
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- First Prize, National College Student Mathematical Modeling Competition             09/2023
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Second Prize, Ministry of Education's "Questioning and Speculation"                 11/2022
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+- Third Prize, 19th Jiangsu Province Higher Education Mathematics Competition         11/2022
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- First-class Scholarship, NUIST                                                      11/2022
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Second Prize, National College English Competition                                  10/2022
+
+
 

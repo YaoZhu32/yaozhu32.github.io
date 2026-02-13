@@ -1,17 +1,14 @@
 
+[![YaoZhu32](https://img.shields.io/badge/YaoZhu32-github-blue?logo=github)](https://github.com/YaoZhu32)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am a Ph.D. student in Sustainable Earth System Sciences (SESS) at The University of Texas at Dallas, working on climate dynamics and predictability.
 
 #### Contact
-
-Email: senli[at]fas.harvard.edu
+Email: yaozhu[at]utdallas.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Sustainable Earth System Sciences (SESS), The University of Texas at Dallas, 2025–present.\  
+B.S., Atmospheric Science, Nanjing University of Information Science and Technology, 2021–2025.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+Ocean–atmosphere interaction; climate variability, change, and predictability; extreme events; El Niño–Southern Oscillation (ENSO)
