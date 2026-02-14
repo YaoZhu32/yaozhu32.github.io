@@ -4,7 +4,7 @@
 I am a Ph.D. student in Sustainable Earth System Sciences (SESS) at The University of Texas at Dallas, working on climate dynamics and predictability.
 
 #### Contact
-Email: yaozhu@utdallas.edu
+Email: yao.zhu@utdallas.edu
 
 #### Education
 Ph.D., Sustainable Earth System Sciences (SESS), The University of Texas at Dallas, 2025–present.  
